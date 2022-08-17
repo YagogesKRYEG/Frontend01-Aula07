@@ -1,0 +1,28 @@
+*{
+    font-family: 'Open sans',  sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+body{
+    background-color: black;
+   }
+
+.media-picture {
+    background-repeat: no-repeat;
+    height: 400px;
+    background-image: url('https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/guerra-infinita-divulgacao.jpg');
+   }
+.review-score{
+    background-color: rgb(177, 177, 14);
+    padding: 12px;
+}
+#sobre {
+    color: steelblue;
+}
+#critic {
+    color: steelblue;
+}
+#yellow {
+    color: yellow;
+}
